@@ -1,0 +1,12 @@
+{
+  "name": "browser-data-capture",
+  "version": "1.0.0",
+  "description": "Streamline programmatic data ingestion against sites and apps that don't ship a documented API — capture network traffic, map endpoints, infer schemas, and produce a draft OpenAPI spec you can build a stable client against. White-hat use only.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Browser-Data-Capture-Plugin",
+  "license": "MIT",
+  "keywords": ["data-ingestion", "network-monitoring", "endpoint-mapping", "openapi", "har", "mitmproxy"]
+}
