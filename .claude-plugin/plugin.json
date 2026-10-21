@@ -1,6 +1,6 @@
 {
   "name": "browser-data-capture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Streamline programmatic data ingestion against sites and apps that don't ship a documented API — capture network traffic, map endpoints, infer schemas, and produce a draft OpenAPI spec you can build a stable client against. White-hat use only.",
   "author": {
     "name": "Daniel Rosehill",

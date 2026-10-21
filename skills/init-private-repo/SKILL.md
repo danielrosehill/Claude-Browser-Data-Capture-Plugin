@@ -14,7 +14,7 @@ Domain maps accumulate over time and benefit from: history, branches when explor
 ## Inputs
 
 - Repo name (default: `Browser-Data-Capture-Maps`).
-- Local clone path (default: `~/repos/github/my-repos/Browser-Data-Capture-Maps/`).
+- Local clone path (default: `~/repos/github/data/Browser-Data-Capture-Maps/` — the `data` topic group; this skill creates the repo, none exists yet).
 - Optional: a different GitHub user/org if the user has more than one account configured.
 
 ## Preconditions
